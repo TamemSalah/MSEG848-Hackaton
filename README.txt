@@ -1,19 +1,34 @@
-Spring 2025
+===========================================================
+                         Spring 2025
+===========================================================
 
-This repositry is designated for the Hackathoon course MSEG/CHEG-848 required as part of the 
-NRT-MIDAS graduate certificate
+Welcome to the official repository for the Hackathoon course **MSEG/CHEG-848**, a key component of the prestigious **NRT-MIDAS Graduate Certificate**.
 
-Project title: Exploring structure modification effects on molecular thermal conductivity
-Company: The Dwo Chemical Company
+-----------------------------------------------------------
+                     Project Overview
+-----------------------------------------------------------
+**Project Title:**  
+*Exploring Structure Modification Effects on Molecular Thermal Conductivity*  
 
-Team members:
-- Tamem Salah
-- Tristan Myers
-- Si-Yuan Liu 
+**Company:**  
+*The Dwo Chemical Company*
 
-Notes:
-- The repository will be used to ensure version control to save input scripts, and data analysis codes 
-for the simulations ran locally. 
-- The data files will be saved locally and will be connected to a folder using the same nomenclature as 
-the online folder.
-- The repository will be updated on weekly basis.
+-----------------------------------------------------------
+                     Team Members
+-----------------------------------------------------------
+- **Tamem Salah**
+- **Tristan Myers**
+- **Si-Yuan Liu**
+
+-----------------------------------------------------------
+               Repository Usage & Key Notes
+-----------------------------------------------------------
+- **Purpose:**  
+  This repository is dedicated to version controlling input scripts and data analysis codes used in locally-run simulations.
+
+- **Data Management:**  
+  All simulation data files are stored locally in a folder that mirrors the nomenclature of the online directory for seamless organization.
+
+- **Maintenance:**  
+  The repository will be updated on a weekly basis to ensure the project remains current and well-documented.
+
